@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width-decive-width,initial-scale=-1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Mauricio </title>
+        <link rel="stylesheet" type="text/css" href="static/css/normalice.css">
+        <link rel="stylesheet" type="text/css" href="static/css/font.css">
+        <link rel="stylesheet" href="{{ url_for('static',filename='css/style.css') }}">
+</head>
+<body>
+        <h1>¡Bienvenido a mi Mundo!</h1>
+        <div>
+                <ul>
+                        <li><a href='/'><span class="icon-home"></ span> Home</a></li>
+                        <li><a href='/quien'><span class="icon-user"></ span>Quien soy</a></li>
+                        <li><a href='/trabajo'><span class="icon-address-book"></ span>Trabajo</a></l>
+                </ul>
+        </div>
+	<hr>
+	<div class="container">	
+		{% block content %}
+		{% endblock %}
+	</div>
+	</body>
+	<hr>
+	<footer>
+        <h2>Contactos </h2>
+                <p><a target='_blank' href="https://www.instagram.com/mauro.lamor/"><span class="icon-instagram"></span>Instagram </a></p>
+                <p><a target='_blank' href="https://www.facebook.com/mauricio.morales.18488169/"><span class="icon-facebook2"></ span>Facebook </a></p>
+	</footer>
+</html>
