@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72bb0f99-f9f2-4e26-a5d5-a2f8d6799ed4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gFtlJiu28R2DlwW40cpxMLTyLS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tesis/Programas" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.index (1)">
+    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P_murta_azul" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P_murta_azul" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.index (1)" />
+        <item itemvalue="Python.index" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72bb0f99-f9f2-4e26-a5d5-a2f8d6799ed4" name="Default Changelist" comment="" />
+      <created>1597722317993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597722317993</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="115" width="483" height="565" key="#HTTP_Proxy" timestamp="1597788865486">
+      <screen x="30" y="28" width="1336" height="740" />
+    </state>
+    <state x="452" y="115" width="483" height="565" key="#HTTP_Proxy/30.28.1336.740@30.28.1336.740" timestamp="1597788865486" />
+    <state x="390" y="200" width="626" height="395" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599877999405">
+      <screen x="28" y="28" width="1338" height="740" />
+    </state>
+    <state x="370" y="200" width="627" height="395" key="#com.intellij.fileTypes.FileTypeChooser/1.28.1365.740@1.28.1365.740" timestamp="1599178819240" />
+    <state x="390" y="200" width="626" height="395" key="#com.intellij.fileTypes.FileTypeChooser/28.28.1338.740@28.28.1338.740" timestamp="1599877999405" />
+    <state x="391" y="200" width="617" height="395" key="#com.intellij.fileTypes.FileTypeChooser/30.28.1336.740@30.28.1336.740" timestamp="1599450999626" />
+    <state x="480" y="156" width="426" height="483" key="FileChooserDialogImpl" timestamp="1602117298840">
+      <screen x="28" y="28" width="1338" height="740" />
+    </state>
+    <state x="480" y="156" key="FileChooserDialogImpl/28.28.1338.740@28.28.1338.740" timestamp="1602117298840" />
+    <state x="481" y="156" width="426" height="483" key="FileChooserDialogImpl/30.28.1336.740@30.28.1336.740" timestamp="1599484818953" />
+    <state width="419" height="589" key="GridCell.Tab.0.bottom" timestamp="1601417008974">
+      <screen x="28" y="28" width="1338" height="740" />
+    </state>
+    <state width="430" height="589" key="GridCell.Tab.0.bottom/1.28.1365.740@1.28.1365.740" timestamp="1599184394022" />
+    <state width="419" height="589" key="GridCell.Tab.0.bottom/28.28.1338.740@28.28.1338.740" timestamp="1601417008974" />
+    <state width="420" height="589" key="GridCell.Tab.0.bottom/30.28.1336.740@30.28.1336.740" timestamp="1599260514023" />
+    <state width="419" height="589" key="GridCell.Tab.0.center" timestamp="1601417008974">
+      <screen x="28" y="28" width="1338" height="740" />
+    </state>
+    <state width="430" height="589" key="GridCell.Tab.0.center/1.28.1365.740@1.28.1365.740" timestamp="1599184394022" />
+    <state width="419" height="589" key="GridCell.Tab.0.center/28.28.1338.740@28.28.1338.740" timestamp="1601417008974" />
+    <state width="420" height="589" key="GridCell.Tab.0.center/30.28.1336.740@30.28.1336.740" timestamp="1599260514023" />
+    <state width="419" height="589" key="GridCell.Tab.0.left" timestamp="1601417008973">
+      <screen x="28" y="28" width="1338" height="740" />
+    </state>
+    <state width="430" height="589" key="GridCell.Tab.0.left/1.28.1365.740@1.28.1365.740" timestamp="1599184394021" />
+    <state width="419" height="589" key="GridCell.Tab.0.left/28.28.1338.740@28.28.1338.740" timestamp="1601417008973" />
+    <state width="420" height="589" key="GridCell.Tab.0.left/30.28.1336.740@30.28.1336.740" timestamp="1599260514022" />
+    <state width="419" height="589" key="GridCell.Tab.0.right" timestamp="1601417008974">
+      <screen x="28" y="28" width="1338" height="740" />
+    </state>
+    <state width="430" height="589" key="GridCell.Tab.0.right/1.28.1365.740@1.28.1365.740" timestamp="1599184394022" />
+    <state width="419" height="589" key="GridCell.Tab.0.right/28.28.1338.740@28.28.1338.740" timestamp="1601417008974" />
+    <state width="420" height="589" key="GridCell.Tab.0.right/30.28.1336.740@30.28.1336.740" timestamp="1599260514023" />
+    <state x="161" y="33" width="1021" height="730" key="SettingsEditor" timestamp="1599178600245">
+      <screen x="1" y="28" width="1365" height="740" />
+    </state>
+    <state x="161" y="33" key="SettingsEditor/1.28.1365.740@1.28.1365.740" timestamp="1599178600245" />
+    <state x="187" y="33" width="1021" height="730" key="SettingsEditor/30.28.1336.740@30.28.1336.740" timestamp="1597789131594" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599175928668">
+      <screen x="1" y="28" width="1365" height="740" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/1.28.1365.740@1.28.1365.740" timestamp="1599175928668" />
+  </component>
+</project>
